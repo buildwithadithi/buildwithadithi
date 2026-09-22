@@ -35,12 +35,12 @@
 
 # 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ADITHICJ&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=buildwithadithi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 # 💬 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITHICJ&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithadithi&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 # 🏆 Holopin Badges:
