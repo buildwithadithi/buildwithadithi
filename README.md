@@ -1,8 +1,9 @@
 <h1 align="center">Hello👋, I'm Adithi CJ</h1>
 <h3 align="center">Learning, building, and sharing my journey in tech.</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
-- 📫 How to reach me **adithicj06@gmail.com**
+- 🔭 Building **scalable backend systems** using Python, FastAPI, and PostgreSQL
+- 🤖 Exploring **RAG, AI-powered applications
+- 📫 Reach me at **adithicj06@gmail.com**
 
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithi-c-j-b691b0282)
