@@ -34,15 +34,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 # 🔥 GitHub Streak:
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=buildwithadithi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=buildwithadithi&theme=tokyonight&hide_border=false" 
+       alt="GitHub Streak" />
 </p>
 
 # 💬 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithadithi&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithadithi&layout=compact&theme=tokyonight&hide_border=false" 
+       alt="Most Used Languages" />
+</p>
 # 🏆 Holopin Badges:
 <p align="center">
   <a href="https://holopin.io/@adithicj">
